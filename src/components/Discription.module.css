@@ -1,0 +1,88 @@
+.mainone{ 
+    display: flex;
+     gap:2rem;
+     justify-content: space-between;
+    
+   
+}
+.closeButton {
+  position: absolute;
+  top: 8.4rem;
+  right: 25.5rem;
+  cursor: pointer;
+ 
+}
+
+
+
+ .cookblock span:nth-child(1){
+  font-size: large;
+  font-weight: 700;
+  }
+ 
+  .first_second{
+    padding-top: 1.5rem;
+  }
+  .first_second span:nth-child(1){
+    font-size: small;
+  }
+  
+  .first_second button{
+   background-color: rgb(230, 230, 238);
+   border: none;
+   padding: 5px;
+   margin-top: 8px;
+   border-radius: 5px;
+  }
+
+  
+
+  .maintwo{
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+   
+    
+  }
+  /* Discription.module.css */
+
+
+
+  
+   .second{
+    margin-top: -1.6rem;
+   }
+   .second p{
+   margin-top: -1rem;
+   background-color: rgb(230, 230, 238);
+   padding: 15px;
+   width: 25rem;
+
+   }
+   .second h4{
+    font-size: larger;
+   }
+
+
+   .thirdone{
+    display: flex;
+    gap: 1rem;
+  
+   }
+ 
+  
+  
+  .time{
+    
+    padding-left: 3rem;
+  }
+
+  .container{
+    margin: auto;
+    margin-top: 5%;
+    background-color: rgb(236, 243, 243);
+    padding: 2rem;
+    width: fit-content;
+    
+  }
